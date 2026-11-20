@@ -1,0 +1,6 @@
+torch
+fire
+datasets
+transformers==4.38.0
+accelerate==0.28.0
+# Note: do NOT install `peft` from pip. The course codebase ships its own modified version.

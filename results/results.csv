@@ -1,0 +1,8 @@
+model,adapter,train_data,epochs,aqua_acc,addsub_acc
+TinyLlama-1.1B,LoRA,math_7k,1,23.23,2.03
+TinyLlama-1.1B,AdapterP,math_7k,1,18.50,2.03
+OpenLLaMA-3B,LoRA,math_7k,1,20.47,41.77
+OpenLLaMA-3B,AdapterP,math_7k,1,19.69,36.96
+OpenLLaMA-3B,LoRA,math_7k,2,16.14,38.48
+OpenLLaMA-3B,LoRA,math_7k,3,16.14,40.25
+OpenLLaMA-3B,LoRA,math_10k,1,19.29,68.61
