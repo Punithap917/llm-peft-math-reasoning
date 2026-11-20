@@ -74,7 +74,7 @@ The full analysis is in the [report (PDF)](report/PEFT_Math_Reasoning_Report.pdf
 The training and evaluation code (`finetune.py`, `evaluate.py`, adapter implementations) comes from the [course codebase](https://github.com/duyngtr16061999/AI6130_Assignment2), which is based on [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters). `run_experiment.py` clones it automatically and runs any experiment with one command.
 
 ```bash
-git clone https://github.com/<your-username>/llm-peft-math-reasoning.git
+git clone https://github.com/Punithap917/llm-peft-math-reasoning.git
 cd llm-peft-math-reasoning
 
 # First run: install pinned packages, then train + evaluate
